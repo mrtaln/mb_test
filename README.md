@@ -1,3 +1,7 @@
+## First of all, you need to run:
+
+### `npm install`
+
 ## Starting React Server
 
 In the project directory, you can run:
